@@ -13,4 +13,5 @@ Auto fill the traverse table in Excel.
 ## 版本历史
 
 ### v1.0
-闭合导线表格的自动生成和计算。
+闭合导线表格的自动生成和计算。  
+![闭合导线计算表格示例](https://imgtu.com/i/oUvTPJ)
